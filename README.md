@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Questo programma è una prima prova.
+Speriamo di continuare.
